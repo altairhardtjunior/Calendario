@@ -10,7 +10,7 @@ Sistema de agendamento e compartilhamento de eventos e atividades para empresa d
 
 # Configuração do Ambiente
 
-Utilize um software que emule um servidor web e suba os serviços de servidor apache, mySql e PHP (Sugiro utilizar o XAMPP).<img src="https://user-images.githubusercontent.com/33841428/144297354-d3228777-3456-4141-a489-7d0da5b24e06.png" style="width: 500px;">
+Utilize um software que emule um servidor web e suba os serviços de servidor apache, mySql e PHP (Sugiro utilizar o <strong>XAMPP<strong>).<br><img src="https://user-images.githubusercontent.com/33841428/144297354-d3228777-3456-4141-a489-7d0da5b24e06.png" style="width: 500px;">
 
 Em seguida copie a pasta calendário na pasta raiz do seu servidor web, crie um banco de dados com o nome que preferir, não esquecendo de alterar também no arquivo "CLASSES/conexao.php". 
 
