@@ -13,7 +13,6 @@ Sistema de agendamento e compartilhamento de eventos e atividades para empresa d
 Utilize um software que emule um servidor web e suba os serviços de servidor apache, mySql e PHP (Sugiro utilizar o <strong>XAMPP</strong>).<br><img src="https://user-images.githubusercontent.com/33841428/144297354-d3228777-3456-4141-a489-7d0da5b24e06.png" style="width: 400px;">
 
 Em seguida copie a pasta calendário na pasta raiz do seu servidor web, crie um banco de dados com o nome que preferir, não esquecendo de alterar também no arquivo "CLASSES/conexao.php". 
-<img src="https://user-images.githubusercontent.com/33841428/144299171-0e68d1e3-4063-4691-92bc-ee7697fc4856.png
-" style="width: 400px;">
+<img src="https://github.com/altairhardtjunior/Calendario/issues/7#issue-1068782947" style="width: 400px;">
 
 Este banco de dados deve possuir uma tabela com o nome "events" com os seguintes campos: id, title, start e end.
