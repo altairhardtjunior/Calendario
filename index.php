@@ -1,5 +1,5 @@
 <?php
-echo "teste";
+
 require_once 'CLASSES/usuarios.php';
 require_once 'CLASSES/cad_event.php';
 require_once 'CLASSES/edit_event.php';
