@@ -1,9 +1,5 @@
 <?php
-session_start();
-if(!isset($_SESSION['id_usuario'])){
-        header("location: ../index.php");
-        exit;
-    }
+echo "teste";
 require_once 'CLASSES/usuarios.php';
 require_once 'CLASSES/cad_event.php';
 require_once 'CLASSES/edit_event.php';
