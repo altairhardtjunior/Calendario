@@ -16,4 +16,4 @@ Em seguida copie a pasta calendário na pasta raiz do seu servidor web, crie um 
 <img src="https://user-images.githubusercontent.com/33841428/144299664-a83e8472-91e8-47f7-8765-ad556e035ba9.png" style="width: 400px;">
 
 Este banco de dados deverá possuir uma tabela com o nome "events" com os seguintes campos: id, title,color, start e end.<br>
-<img src="https://user-images.githubusercontent.com/33841428/144300415-9de34500-c52e-49d1-81e5-c0ba37d1be0d.png" style="width: 400px;">
+<img src="https://user-images.githubusercontent.com/33841428/144300415-9de34500-c52e-49d1-81e5-c0ba37d1be0d.png" style="width: 600px;">
