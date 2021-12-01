@@ -7,7 +7,7 @@ Sistema de agendamento e compartilhamento de eventos e atividades para empresa d
 
 
 <img src="https://user-images.githubusercontent.com/33841428/144291736-a6cbb861-436d-4132-9630-cf3e32e34443.png" style="width: 500px;">
-<img src="https://user-images.githubusercontent.com/33841428/144293523-1ca4430e-741f-42d1-887a-46d4a263c0ca.png" style="width: 300px;">
+<img src="https://user-images.githubusercontent.com/33841428/144293523-1ca4430e-741f-42d1-887a-46d4a263c0ca.png" style="width: 400px;">
 
 # Configuração do Ambiente
 
