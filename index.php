@@ -5,6 +5,8 @@ if(!isset($_SESSION['id_usuario'])){
         exit;
     }
 require_once 'CLASSES/usuarios.php';
+require_once 'CLASSES/cad_event.php';
+require_once 'CLASSES/edit_event.php';
 $u=new Usuario;
 ?>
 <!DOCTYPE html>
