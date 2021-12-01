@@ -1,4 +1,4 @@
-# Calendário
+# calendario
 Calendário de eventos
 (Full Callendar)
 
